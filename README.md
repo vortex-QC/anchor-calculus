@@ -1,6 +1,6 @@
 # anchor-calculus
 
-Replication package. Paper DOI: **PENDING** (backfilled after publish).
+Replication package. Paper DOI: [10.5281/zenodo.23084467](https://doi.org/10.5281/zenodo.23084467) (backfilled after publish).
 
 **File ↔ section map**
 
